@@ -6,6 +6,6 @@ Here's a bash script to set up a vitrual private server in Google cloud platform
 
 Here's an ensemble classifier using ensembles of artifical neural networks, forests, and linear support vectors. [script](https://github.com/kayfay/ml_scikit-learn_tensorflow/blob/master/ensemble_learning_and_random_forests/voting_classifier.ipynb)
 
-Here's some python scripts that deal with clustering [clustering](https://github.com/kayfay/ml_scikit-learn_tensorflow/tree/master/clustering)
+Here's some python scripts that deal with [clustering](https://github.com/kayfay/ml_scikit-learn_tensorflow/tree/master/clustering)
 
 And here's an about me. [About Me](https://kayfay.github.io/allen.tools/)
